@@ -1,5 +1,5 @@
 ## ARTISTS CLUB
-* Make an Musical and Dancing astist Club.
+* Make an Musical and Dancing artist Club.
 * In our club, a committee has been organized.
 * The best songs and artists of the world to sing and perform in this club.
 
