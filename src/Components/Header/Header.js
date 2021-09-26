@@ -3,6 +3,7 @@ import './Header.css';
 const Header = () => {
     return (
         <>
+        {/* -----------Menu part------------------ */}
             <nav className="navbar navbar-expand-lg navbar-light " style={{ backgroundColor: 'rgba(25, 209, 233, 0.342)' }}>
                 <div className="container-fluid">
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -29,6 +30,7 @@ const Header = () => {
                     </div>
                 </div>
             </nav>
+         {/* --------------header----------  */}
             <div className="header-container container">
                 <h1 >"Make an <span>Musical</span> and <span>Dancing</span> astist Club"</h1>
                 <h5>In our club, a committee has been organized with the best songs and artists of the world to sing and perform.</h5>
